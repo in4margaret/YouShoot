@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidOpencvQuickStart/AndroidOpencvModule/AndroidOpencvModule.iml" filepath="$PROJECT_DIR$/AndroidOpencvQuickStart/AndroidOpencvModule/AndroidOpencvModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidOpencvQuickStart/java/AndroidOpencvQuickStart.iml" filepath="$PROJECT_DIR$/AndroidOpencvQuickStart/java/AndroidOpencvQuickStart.iml" />
+    </modules>
+  </component>
+</project>
+
